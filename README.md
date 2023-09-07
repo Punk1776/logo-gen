@@ -23,8 +23,7 @@ npm (usually comes with Node.js)
 
 git clone git@github.com:Punk1776/logo-gen.git
 
-2.
-cd logo-gen
+2.cd logo-gen
 
 3.Install the project dependencies by running the following command in your terminal: npm install --save-dev jest  npm install inquirer
 
@@ -47,7 +46,9 @@ None at the moment.
 ## Examples
 Here are some examples of how to use the SVG Logo Generator:
 Create a logo with the text "SVG," White text color, a circle shape, and a green background:
+
 ![Alt text](image.png)
+
 Follow the prompts and select your preferences.
 
 ## Contributing
